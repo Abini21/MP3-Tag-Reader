@@ -23,5 +23,4 @@ It also allows the user to modify selected tag values directly in the MP3 file.
 
 The application can read and display ID3v2.3 metadata.
 
-```bash
 ./a.out -v tamilsong.mp3
